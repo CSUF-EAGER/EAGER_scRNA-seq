@@ -48,3 +48,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Dataset is downloaded with gdown (see README); too large for GitHub.
+# The trained scVI weights in data/scvi_model/ are committed.
+data/*.h5ad
+.ipynb_checkpoints/
+__pycache__/

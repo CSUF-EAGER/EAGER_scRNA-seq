@@ -21,4 +21,7 @@ gdown --folder "https://drive.google.com/drive/folders/18IYXtfmcj5pR3TCVYrOBUStu
 
 ~970 MB, lands in `data/`.
 
+The pre-trained scVI weights live in `data/scvi_model/`; the notebook downloads
+them automatically if they're missing, so no training is needed in class.
+
 Setup instructions are in the notebook.
