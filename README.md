@@ -2,6 +2,10 @@
 
 Tutorial on data dimensionality reduction using single-cell RNA-seq data.
 
+## Open the Nautilus Server
+
+https://tsc.fullerton.edu/supercomputing/nautilus.html
+
 ## Download the tutorial
 
 ```bash
